@@ -12,7 +12,7 @@
           />
         </div>
         
-        <div class="p-[16px] space-y-5 text-[#55585D] bg-[#55585D]">
+        <div class="p-8 space-y-5 text-[#55585D] bg-[#55585D]">
           <h3 class="text-[28px] font-medium tracking-tight text-white">
             Contract-First Development
           </h3>

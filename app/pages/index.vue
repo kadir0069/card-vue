@@ -12,7 +12,7 @@
           <p class="text-[#5E656E] text-[18px] leading-relaxed">
             Built on real-world collaboration, our partners share how TechBridge helps scale operations and automate workflows.
           </p>
-          <button class="w-full sm:w-[478px] h-[56px] px-[20px] py-[10px] rounded-[100px] text-white font-bold text-lg bg-gradient-to-b from-[#7491FF] to-[#0035FF] shadow-[inset_0_5px_25px_-16px_rgba(255,255,255,0.15),inset_0_5px_10px_0_rgba(255,255,255,0.15)] hover:opacity-90 transition-all active:scale-[0.98]">
+          <button class="w-full sm:w-[478px] h-[56px] px-[20px] py-[10px] rounded-[100px] text-white font-medium text-lg bg-gradient-to-b from-[#7491FF] to-[#0035FF] shadow-[inset_0_5px_25px_-16px_rgba(255,255,255,0.15),inset_0_5px_10px_0_rgba(255,255,255,0.15)] hover:opacity-90 transition-all active:scale-[0.98]">
             View Client Stories
           </button>
         </div>

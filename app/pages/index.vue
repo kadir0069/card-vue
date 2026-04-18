@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-white font-sans flex items-center justify-center">
     <div class="max-w-[1600px] mx-auto w-full p-12">
       
-      <div class="grid grid-cols-1 lg:grid-cols-[1fr,auto,2fr] gap-16 items-center justify-items-center lg:justify-items-stretch">
+      <div class="grid grid-cols-1 lg:grid-cols-[1fr,auto,2fr] gap-[48px] items-center justify-items-center lg:justify-items-stretch">
         
         <div class="space-y-8 w-full max-w-md">
           <h1 class="text-[48px] font-normal leading-[1.1] tracking-tighter text-slate-900">
@@ -22,37 +22,32 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-[24px] w-full">
           <div class="w-full max-w-[491px] h-[348px] p-[32px] rounded-[12px] bg-[#EDEFF2] flex flex-col justify-between gap-[8px] overflow-hidden justify-self-center lg:justify-self-start">
             <div>
-              <span class="text-7xl text-blue-400 opacity-40 font-serif leading-none">“</span>
+              <span class="text-7xl text-blue-400 opacity-40 font-serif leading-none"> <img src="/quote-down.png" class=""> </span>
               <p class="text-[rgba(94, 101, 110, 1)] mt-4 leading-relaxed text-[16px] italic ">
                 "Organizations across industries partner with <span class="text-[#3878FA]"> TechBridge </span> to automate workflows, improve efficiency, and build reliable AI systems."
               </p>
             </div>
-            <div class="flex items-center gap-4 pt-6 border-t border-slate-300">
             <img src="/sarah.png" alt="Sarah" class="w-14 h-14 rounded-full object-cover">
               <div>
                 <h4 class="font-bold text-[#0F1824] text-[24px]">Sarah Chen</h4>
                 <p class="text-sm text-slate-400 uppercase tracking-wider font-[14px]">Global Innovations Inc</p>
               </div>
-            </div>
           </div>
 
           <div class="w-full max-w-[491px] h-[348px] p-[32px] rounded-[12px] bg-[#EDEFF2] flex flex-col justify-between gap-[8px] overflow-hidden justify-self-center lg:justify-self-end">
             <div>
-              <span class="text-7xl text-blue-400 opacity-40 font-serif leading-none">“</span>
+              <span class="text-7xl text-blue-400 opacity-40 font-serif leading-none"><img src="/quote-down.png" class=""></span>
               <p class="text-[rgba(94, 101, 110, 1)] mt-4 leading-relaxed text-[16px] italic">
-                 <span class="text-[rgba(104, 129, 222, 1)]"> "TechBridge </span> has helped our team simplify complex workflows and bring greater efficiency to our operations."
+                 <span class="text-[#3878FA]"> "TechBridge </span> has helped our team simplify complex workflows and bring greater efficiency to our operations."
               </p>
             </div>
-            <div class="flex items-center gap-4 pt-6 border-t border-slate-300">
-            <img src="/emily.png" alt="Sarah" class="w-14 h-14 rounded-full object-cover">
+              <img src="/emily.png" alt="Sarah" class="w-14 h-14 rounded-full object-cover">
               <div>
                 <h4 class="font-bold text-[#0F1824] text-[24px]">Emily Watson</h4>
                 <p class="text-sm text-slate-400 uppercase tracking-wider font-[14px]">Enterprise Solution Ltd</p>
               </div>
-            </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
